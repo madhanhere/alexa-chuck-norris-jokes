@@ -1,0 +1,22 @@
+{
+    "session": {
+        "new": false,
+        "sessionId": "session1234",
+        "attributes": {},
+        "user": {
+            "userId": "user123"
+        },
+        "application": {
+            "applicationId": "YOUR_APPLICATION_ID"
+        }
+    },
+    "version": "1.0",
+    "request": {
+        "intent": {
+            "slots": {},
+            "name": "GetFactIntent"
+        },
+        "type": "IntentRequest",
+        "requestId": "request5678"
+    }
+}

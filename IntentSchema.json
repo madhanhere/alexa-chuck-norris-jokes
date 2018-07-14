@@ -1,0 +1,34 @@
+{
+    "intents": [
+        {
+            "intent": "GetFactIntent"
+        },
+        {
+            "intent": "GetDevFactIntent"
+        },
+        {
+            "intent": "GetPoliticsFactIntent"
+        },
+        {
+            "intent": "GetTravellerFactIntent"
+        },
+        {
+            "intent": "GetCelebrityFactIntent"
+        },
+        {
+            "intent": "GetSportsFactIntent"
+        },
+        {
+            "intent": "DontKnowIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        }
+    ]
+}

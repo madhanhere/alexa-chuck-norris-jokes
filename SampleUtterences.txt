@@ -1,0 +1,21 @@
+GetFactIntent tell me chuck norris fact
+GetFactIntent tell me a chuck norris fact
+GetFactIntent tell any chuck norris fact
+GetFactIntent get me a chuck norris fact
+GetFactIntent get a chuck norris fact
+
+GetFactIntent tell me a chuck norris joke
+GetFactIntent tell a chuck norris joke
+GetFactIntent tell any chuck norris joke
+GetFactIntent get me a chuck norris joke
+GetFactIntent get a chuck norris joke
+
+GetDevFactIntent what if chuck norris a developer
+
+GetPoliticsFactIntent what if chuck norris a politician
+
+GetTravellerFactIntent what if chuck norris a traveller
+
+GetCelebrityFactIntent what if chuck norris a celebrity
+
+GetSportsFactIntent what if chuck norris a sportsman
